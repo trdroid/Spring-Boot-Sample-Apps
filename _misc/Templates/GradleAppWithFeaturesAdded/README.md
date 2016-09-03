@@ -28,7 +28,7 @@ Project extracted to 'C:\Users\droid\onGit\spring-boot-tryouts\_misc\Templates\G
 
 The command used above uses the following switches to create a Gradle based Spring Boot web application:
 
-* dweb: to include the library to handle web files that also includes an embedded Tomcat server
+* web: to include the library to handle web files that also includes an embedded Tomcat server
 * data-jpa: to include a library to handle persistence 
 * h2: to include the H2 database engine
 * thymeleaf: to include the thymeleaf view engine
