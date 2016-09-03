@@ -26,6 +26,13 @@ Using service at https://start.spring.io
 Project extracted to 'C:\Users\droid\onGit\spring-boot-tryouts\_misc\Templates\GradleAppWithFeaturesAdded'
 ```
 
+The command used above uses the following switches to create a Gradle based Spring Boot web application:
+
+* dweb: to include the library to handle web files that also includes an embedded Tomcat server
+* data-jpa: to include a library to handle persistence 
+* h2: to include the H2 database engine
+* thymeleaf: to include the thymeleaf view engine
+
 ### Project Structure and content
 
 ![](_misc/Project%20structure%20and%20content.PNG)
